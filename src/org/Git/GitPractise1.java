@@ -6,6 +6,7 @@ public class GitPractise1 {
 		System.out.println("Git Practise");
 		int a=5, b=10;
 		int c= a+b;
+		int d=a-b;
 	}
 
 }
